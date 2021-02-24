@@ -1,5 +1,6 @@
 body {
-	background: #eab0dc;
+	/* background: #eab0dc; */
+	background: #bea7b9;
 	font-family: ubuntu;
 }
 
@@ -99,4 +100,5 @@ button {
 	font-family: ubuntu;
 	letter-spacing: 1px;
 	color: #999;
+	cursor: pointer;
 }
